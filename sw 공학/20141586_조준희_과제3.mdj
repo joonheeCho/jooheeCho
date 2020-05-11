@@ -48,7 +48,7 @@
 											"font": "Arial;13;0",
 											"left": 69,
 											"top": 61,
-											"width": 111.2236328125,
+											"width": 113.140625,
 											"height": 13,
 											"text": "«system»"
 										},
@@ -61,7 +61,7 @@
 											"font": "Arial;13;1",
 											"left": 69,
 											"top": 76,
-											"width": 111.2236328125,
+											"width": 113.140625,
 											"height": 13,
 											"underline": true,
 											"text": "온라인 쇼핑 시스템"
@@ -97,7 +97,7 @@
 									"font": "Arial;13;0",
 									"left": 64,
 									"top": 56,
-									"width": 121.2236328125,
+									"width": 123.140625,
 									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFyA9HrogpPyQc="
@@ -133,7 +133,7 @@
 							"containerChangeable": true,
 							"left": 64,
 							"top": 56,
-							"width": 121.2236328125,
+							"width": 123.140625,
 							"height": 65,
 							"nameCompartment": {
 								"$ref": "AAAAAAFyA9HrogpO7Mk="
@@ -183,7 +183,7 @@
 											"font": "Arial;13;0",
 											"left": 301,
 											"top": 141,
-											"width": 179.83544921875,
+											"width": 182.7109375,
 											"height": 13,
 											"text": "«control»"
 										},
@@ -196,7 +196,7 @@
 											"font": "Arial;13;1",
 											"left": 301,
 											"top": 156,
-											"width": 179.83544921875,
+											"width": 182.7109375,
 											"height": 13,
 											"underline": true,
 											"text": "온라인 쇼핑 시스템 코디네이터"
@@ -211,7 +211,7 @@
 											"font": "Arial;13;0",
 											"left": 128,
 											"top": -128,
-											"width": 142.314453125,
+											"width": 148.5732421875,
 											"height": 13,
 											"text": "(from Object Structuring)"
 										},
@@ -232,7 +232,7 @@
 									"font": "Arial;13;0",
 									"left": 296,
 									"top": 136,
-									"width": 189.83544921875,
+									"width": 192.7109375,
 									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFyA9fvRQsIvoA="
@@ -268,7 +268,7 @@
 							"containerChangeable": true,
 							"left": 296,
 							"top": 136,
-							"width": 189.83544921875,
+							"width": 192.7109375,
 							"height": 49,
 							"nameCompartment": {
 								"$ref": "AAAAAAFyA9fvRQsH3oM="
@@ -333,7 +333,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": -64,
-											"width": 142.314453125,
+											"width": 148.5732421875,
 											"height": 13,
 											"text": "(from Object Structuring)"
 										},
@@ -454,7 +454,7 @@
 											"font": "Arial;13;0",
 											"left": -48,
 											"top": 32,
-											"width": 142.314453125,
+											"width": 148.5732421875,
 											"height": 13,
 											"text": "(from Object Structuring)"
 										},
@@ -577,7 +577,7 @@
 											"font": "Arial;13;0",
 											"left": -80,
 											"top": 48,
-											"width": 142.314453125,
+											"width": 148.5732421875,
 											"height": 13,
 											"text": "(from Object Structuring)"
 										},
@@ -700,7 +700,7 @@
 											"font": "Arial;13;0",
 											"left": -80,
 											"top": 64,
-											"width": 142.314453125,
+											"width": 148.5732421875,
 											"height": 13,
 											"text": "(from Object Structuring)"
 										},
@@ -823,7 +823,7 @@
 											"font": "Arial;13;0",
 											"left": 800,
 											"top": 64,
-											"width": 142.314453125,
+											"width": 148.5732421875,
 											"height": 13,
 											"text": "(from Object Structuring)"
 										},
@@ -918,7 +918,7 @@
 											"font": "Arial;13;0",
 											"left": 517,
 											"top": 389,
-											"width": 120.61181640625,
+											"width": 121.5703125,
 											"height": 13,
 											"text": "«user interface»"
 										},
@@ -931,7 +931,7 @@
 											"font": "Arial;13;1",
 											"left": 517,
 											"top": 404,
-											"width": 120.61181640625,
+											"width": 121.5703125,
 											"height": 13,
 											"underline": true,
 											"text": "공급업자 인터페이스"
@@ -946,7 +946,7 @@
 											"font": "Arial;13;0",
 											"left": 752,
 											"top": 64,
-											"width": 142.314453125,
+											"width": 148.5732421875,
 											"height": 13,
 											"text": "(from Object Structuring)"
 										},
@@ -967,7 +967,7 @@
 									"font": "Arial;13;0",
 									"left": 512,
 									"top": 384,
-									"width": 130.61181640625,
+									"width": 131.5703125,
 									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFyA9wqIwvnvSk="
@@ -1003,7 +1003,7 @@
 							"containerChangeable": true,
 							"left": 512,
 							"top": 384,
-							"width": 130.61181640625,
+							"width": 131.5703125,
 							"height": 73,
 							"nameCompartment": {
 								"$ref": "AAAAAAFyA9wqIwvmAcQ="
@@ -1043,7 +1043,7 @@
 											"top": 221,
 											"width": 95,
 											"height": 13,
-											"text": "«servict»"
+											"text": "«service»"
 										},
 										{
 											"_type": "LabelView",
@@ -1069,7 +1069,7 @@
 											"font": "Arial;13;0",
 											"left": -896,
 											"top": -80,
-											"width": 142.314453125,
+											"width": 148.5732421875,
 											"height": 13,
 											"text": "(from Object Structuring)"
 										},
@@ -1164,7 +1164,7 @@
 											"font": "Arial;13;0",
 											"left": 133,
 											"top": 301,
-											"width": 94.61181640625,
+											"width": 95.5703125,
 											"height": 13,
 											"text": "«service»"
 										},
@@ -1177,7 +1177,7 @@
 											"font": "Arial;13;1",
 											"left": 133,
 											"top": 316,
-											"width": 94.61181640625,
+											"width": 95.5703125,
 											"height": 13,
 											"underline": true,
 											"text": "주문접수 서비스"
@@ -1192,7 +1192,7 @@
 											"font": "Arial;13;0",
 											"left": -848,
 											"top": -80,
-											"width": 142.314453125,
+											"width": 148.5732421875,
 											"height": 13,
 											"text": "(from Object Structuring)"
 										},
@@ -1213,7 +1213,7 @@
 									"font": "Arial;13;0",
 									"left": 128,
 									"top": 296,
-									"width": 104.61181640625,
+									"width": 105.5703125,
 									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFyA9zZ9Awl1LU="
@@ -1249,7 +1249,7 @@
 							"containerChangeable": true,
 							"left": 128,
 							"top": 296,
-							"width": 104.61181640625,
+							"width": 105.5703125,
 							"height": 57,
 							"nameCompartment": {
 								"$ref": "AAAAAAFyA9zZ9Awkvws="
@@ -1315,7 +1315,7 @@
 											"font": "Arial;13;0",
 											"left": -896,
 											"top": 80,
-											"width": 142.314453125,
+											"width": 148.5732421875,
 											"height": 13,
 											"text": "(from Object Structuring)"
 										},
@@ -1410,7 +1410,7 @@
 											"font": "Arial;13;0",
 											"left": 133,
 											"top": 381,
-											"width": 94.61181640625,
+											"width": 95.5703125,
 											"height": 13,
 											"text": "«service»"
 										},
@@ -1423,7 +1423,7 @@
 											"font": "Arial;13;1",
 											"left": 133,
 											"top": 396,
-											"width": 94.61181640625,
+											"width": 95.5703125,
 											"height": 13,
 											"underline": true,
 											"text": "배송처리 서비스"
@@ -1438,7 +1438,7 @@
 											"font": "Arial;13;0",
 											"left": -832,
 											"top": -160,
-											"width": 142.314453125,
+											"width": 148.5732421875,
 											"height": 13,
 											"text": "(from Object Structuring)"
 										},
@@ -1459,7 +1459,7 @@
 									"font": "Arial;13;0",
 									"left": 128,
 									"top": 376,
-									"width": 104.61181640625,
+									"width": 105.5703125,
 									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFyA917/AxjFtY="
@@ -1495,7 +1495,7 @@
 							"containerChangeable": true,
 							"left": 128,
 							"top": 376,
-							"width": 104.61181640625,
+							"width": 105.5703125,
 							"height": 54,
 							"nameCompartment": {
 								"$ref": "AAAAAAFyA917/Axidzk="
@@ -1594,7 +1594,7 @@
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
 					"name": "이메일 서비스",
-					"stereotype": "servict"
+					"stereotype": "service"
 				},
 				{
 					"_type": "UMLObject",
